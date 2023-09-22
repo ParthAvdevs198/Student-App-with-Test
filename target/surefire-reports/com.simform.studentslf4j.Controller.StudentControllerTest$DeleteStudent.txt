@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.simform.studentslf4j.Controller.StudentControllerTest$DeleteStudent
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.43 s - in com.simform.studentslf4j.Controller.StudentControllerTest$DeleteStudent

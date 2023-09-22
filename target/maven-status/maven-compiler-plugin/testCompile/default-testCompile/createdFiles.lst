@@ -1,0 +1,9 @@
+com\simform\studentslf4j\Controller\StudentControllerTest$GetStudentById.class
+com\simform\studentslf4j\Controller\StudentControllerTest$DeleteStudent.class
+com\simform\studentslf4j\Controller\StudentControllerTest$GetAllStudent.class
+com\simform\studentslf4j\Controller\StudentControllerTest.class
+com\simform\studentslf4j\Controller\StudentControllerTest$updateStudent.class
+com\simform\studentslf4j\Controller\StudentControllerTest$saveStudent.class
+com\simform\studentslf4j\Service\StudentServiceTest.class
+com\simform\studentslf4j\Repository\StudentRepositoryTest.class
+com\simform\studentslf4j\Studentslf4jApplicationTests.class
